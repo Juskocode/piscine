@@ -19,9 +19,8 @@ unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 	unsigned int	dlen;
 	unsigned int	slen;
 
-	i = 0;
+	i = ft_strlen(src);
 	j = 0;
-	dlen = ft_strlen(dest);
 	slen = ft_strlen(src);
 	if (size == 0 || size <= dlen)
 		return (slen + size);
