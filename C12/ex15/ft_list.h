@@ -1,17 +1,26 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_abs.h                                           :+:      :+:    :+:   */
+/*   ft_list.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/17 06:18:59 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/18 00:00:04 by aaires-d         ###   ########.fr       */
+/*   Created: 2024/01/20 00:48:22 by aaires-d          #+#    #+#             */
+/*   Updated: 2024/01/20 01:07:21 by aaires-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_ABS_H
-# define FT_ABS_H
+#ifndef FT_LIST_H
+# define FT_LIST_H
 
-# define ABS(n) ((n > 0) * n + (n < 0) * (-n))
+# include <stdlib.h>
+
+typedef struct s_list
+{
+	struct s_list	*next;
+	void			*data;
+}					t_list;
+
+t_list			*ft_create_elem(void *data);
+
 #endif

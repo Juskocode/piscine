@@ -1,17 +1,25 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_abs.h                                           :+:      :+:    :+:   */
+/*   ft_list_foreach.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/17 06:18:59 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/18 00:00:04 by aaires-d         ###   ########.fr       */
+/*   Created: 2024/01/20 03:57:22 by aaires-d          #+#    #+#             */
+/*   Updated: 2024/01/20 04:00:19 by aaires-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_ABS_H
-# define FT_ABS_H
+#include "ft_list.h"
 
-# define ABS(n) ((n > 0) * n + (n < 0) * (-n))
-#endif
+void	ft_list_foreach(t_list *begin_list, void (*f)(void *))
+{
+	t_list	*it;
+
+	it = begin_list;
+	while (it->next)
+	{
+		(*f)(it->data);
+		it = it->next;
+	}
+}

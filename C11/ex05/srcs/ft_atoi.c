@@ -1,17 +1,38 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_abs.h                                           :+:      :+:    :+:   */
+/*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/17 06:18:59 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/18 00:00:04 by aaires-d         ###   ########.fr       */
+/*   Created: 2024/01/18 19:32:36 by aaires-d          #+#    #+#             */
+/*   Updated: 2024/01/19 22:28:52 by aaires-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_ABS_H
-# define FT_ABS_H
+#include "ft.h"
 
-# define ABS(n) ((n > 0) * n + (n < 0) * (-n))
-#endif
+int	ft_atoi(char *str)
+{
+	int	sign;
+	int	i;
+	int	result;
+
+	sign = 1;
+	i = 0;
+	result = 0;
+	while (str[i] == ' ' || (str[i] >= 9 && str[i] <= 13))
+		i++;
+	while (str[i] == '+' || str[i] == '-')
+	{
+		if (str[i] == '-')
+			sign = -sign;
+		i++;
+	}
+	while (str[i] >= '0' && str[i] <= '9')
+	{
+		result = result * 10 + (str[i] - '0');
+		i++;
+	}
+	return (sign * result);
+}

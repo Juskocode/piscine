@@ -1,17 +1,26 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_abs.h                                           :+:      :+:    :+:   */
+/*   ft_create_elem.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/17 06:18:59 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/18 00:00:04 by aaires-d         ###   ########.fr       */
+/*   Created: 2024/01/20 01:08:11 by aaires-d          #+#    #+#             */
+/*   Updated: 2024/01/20 01:37:10 by aaires-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_ABS_H
-# define FT_ABS_H
+#include "ft_list.h"
 
-# define ABS(n) ((n > 0) * n + (n < 0) * (-n))
-#endif
+t_list	*ft_create_elem(void *data)
+{
+	t_list	*new_node;
+
+	new_node = malloc(sizeof(t_list));
+	if (new_node)
+	{
+		new_node->next = NULL;
+		new_node->data = data;
+	}
+	return (new_node);
+}

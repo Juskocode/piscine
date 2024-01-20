@@ -1,17 +1,30 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_abs.h                                           :+:      :+:    :+:   */
+/*   ft_map.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/17 06:18:59 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/18 00:00:04 by aaires-d         ###   ########.fr       */
+/*   Created: 2024/01/18 17:26:03 by aaires-d          #+#    #+#             */
+/*   Updated: 2024/01/18 23:07:10 by aaires-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_ABS_H
-# define FT_ABS_H
+#include <stdlib.h>
 
-# define ABS(n) ((n > 0) * n + (n < 0) * (-n))
-#endif
+int	*ft_map(int *tab, int lenght, int (*f)(int))
+{
+	int	i;
+	int	*res;
+
+	i = 0;
+	res = malloc(lenght * 4);
+	if (!res)
+		return (0);
+	while (i < lenght)
+	{
+		res[i] = (*f)(tab[i]);
+		i++;
+	}
+	return (res);
+}

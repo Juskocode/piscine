@@ -6,12 +6,12 @@
 /*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/17 06:24:21 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/17 06:25:47 by aaires-d         ###   ########.fr       */
+/*   Updated: 2024/01/18 00:02:43 by aaires-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_POINT_H
-#define FT_POINT_H
+# define FT_POINT_H
 
 typedef struct s_point
 {
