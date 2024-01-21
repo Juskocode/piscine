@@ -1,0 +1,6 @@
+==> toto.txt <==
+123456789
+
+==> Makefile <==
+fclean re
+

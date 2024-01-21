@@ -1,27 +1,25 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   count_if.c                                         :+:      :+:    :+:   */
+/*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ybayart <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/18 18:13:52 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/18 23:14:10 by aaires-d         ###   ########.fr       */
+/*   Created: 2019/08/01 13:46:29 by ybayart           #+#    #+#             */
+/*   Updated: 2019/08/13 04:16:42 by ybayart          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_count_if(char **tab, int length, int (*f)(char*))
+#include "../includes/ft.h"
+
+int		ft_strlen(char *str)
 {
-	int	i;
-	int	count;
+	int i;
 
 	i = 0;
-	count = 0;
-	while (i < length)
+	while (*(str + i) != '\0')
 	{
-		if ((*f)(tab[i]))
-			count++;
 		i++;
 	}
-	return (count);
+	return (i);
 }

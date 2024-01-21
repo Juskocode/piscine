@@ -1,27 +1,31 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   count_if.c                                         :+:      :+:    :+:   */
+/*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ybayart <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/18 18:13:52 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/18 23:14:10 by aaires-d         ###   ########.fr       */
+/*   Created: 2019/08/05 04:18:16 by ybayart           #+#    #+#             */
+/*   Updated: 2019/08/14 15:32:54 by ybayart          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_count_if(char **tab, int length, int (*f)(char*))
-{
-	int	i;
-	int	count;
+#include "../includes/ft.h"
 
+int		ft_atoi(char *str)
+{
+	int		i;
+	int		nb;
+
+	nb = 0;
 	i = 0;
-	count = 0;
-	while (i < length)
+	while (str[i] >= '0' && str[i] <= '9')
 	{
-		if ((*f)(tab[i]))
-			count++;
+		nb = (nb * 10) + (str[i] - '0');
 		i++;
 	}
-	return (count);
+	if (i == 0)
+		return (-1);
+	else
+		return (nb);
 }

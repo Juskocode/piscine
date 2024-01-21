@@ -1,27 +1,34 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   count_if.c                                         :+:      :+:    :+:   */
+/*   ft_putstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ybayart <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/18 18:13:52 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/18 23:14:10 by aaires-d         ###   ########.fr       */
+/*   Created: 2019/08/01 11:46:22 by ybayart           #+#    #+#             */
+/*   Updated: 2019/08/13 17:18:50 by ybayart          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_count_if(char **tab, int length, int (*f)(char*))
+#include "../includes/ft.h"
+
+void	ft_putstr(char *str, int out)
 {
-	int	i;
-	int	count;
+	int i;
 
 	i = 0;
-	count = 0;
-	while (i < length)
+	while (*(str + i) != '\0')
 	{
-		if ((*f)(tab[i]))
-			count++;
+		ft_putchar(*(str + i), out);
 		i++;
 	}
-	return (count);
+}
+
+void	ft_putstr_buf(char *str, int size)
+{
+	int i;
+
+	i = -1;
+	while (++i < size)
+		ft_putchar(str[i], 1);
 }

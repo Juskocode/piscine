@@ -1,27 +1,31 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   count_if.c                                         :+:      :+:    :+:   */
+/*   ft_swap.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ybayart <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/18 18:13:52 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/18 23:14:10 by aaires-d         ###   ########.fr       */
+/*   Created: 2019/08/01 10:38:04 by ybayart           #+#    #+#             */
+/*   Updated: 2019/08/18 17:55:50 by ybayart          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_count_if(char **tab, int length, int (*f)(char*))
+#include "../includes/ft.h"
+
+void	ft_swap(int *a, int *b)
 {
-	int	i;
-	int	count;
+	int c;
+
+	c = *a;
+	*a = *b;
+	*b = c;
+}
+
+void	ft_swap_tail(char *str, int size)
+{
+	int		i;
 
 	i = 0;
-	count = 0;
-	while (i < length)
-	{
-		if ((*f)(tab[i]))
-			count++;
-		i++;
-	}
-	return (count);
+	while (++i < size)
+		str[i - 1] = str[i];
 }

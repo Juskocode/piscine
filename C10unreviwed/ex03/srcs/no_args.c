@@ -1,27 +1,21 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   count_if.c                                         :+:      :+:    :+:   */
+/*   no_args.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aaires-d <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ybayart <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/18 18:13:52 by aaires-d          #+#    #+#             */
-/*   Updated: 2024/01/18 23:14:10 by aaires-d         ###   ########.fr       */
+/*   Created: 2019/08/13 03:55:35 by ybayart           #+#    #+#             */
+/*   Updated: 2019/08/13 19:38:15 by ybayart          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_count_if(char **tab, int length, int (*f)(char*))
-{
-	int	i;
-	int	count;
+#include "../includes/ft.h"
 
-	i = 0;
-	count = 0;
-	while (i < length)
-	{
-		if ((*f)(tab[i]))
-			count++;
-		i++;
-	}
-	return (count);
+void	no_args(void)
+{
+	char	buf;
+
+	while (read(1, &buf, 1) != 0)
+		;
 }
