@@ -9,7 +9,7 @@
 * [`Stud42`](https://signin.intra.42.fr/users/sign_in)
 * [`Piscine 42 Vmontagn`](https://42-beta.vmontagn.fr/login)
 * [`42 Header`](https://github.com/42Paris/42header)
-* [`42 Norminette formatter`]([https://github.com/alexandregv/norminette-vim](https://github.com/dawnbeen/c_formatter_42))
+* [`42 Norminette formatter`](https://github.com/alexandregv/norminette-vim](https://github.com/dawnbeen/c_formatter_42))
 * [`Piscine mini-moulinette`](https://github.com/Buom01/semi-auto-correct-42)
 * [`Find peers`](https://find-peers.codam.nl)
 * [`Learn programming in 4min`](https://www.youtube.com/watch?v=5p8wTOr8AbU) 
