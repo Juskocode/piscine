@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
+	<img src="https://img.shields.io/badge/status-Running-success?color=%2312bab9&style=flat-square"/>
 	<img src="https://img.shields.io/github/last-commit/Juskocode/piscine?color=%2312bab9&style=flat-square"/>
 	<a href='https://www.linkedin.com/in/andre-freitas-331006215/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 	<a href='https://profile.intra.42.fr/users/aaires-d' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
