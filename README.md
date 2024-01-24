@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://zupimages.net/up/22/37/5q09.png" />
+   <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_piscine.png">
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/>
+	<img src="https://img.shields.io/github/last-commit/jotavare/42-piscine?color=%2312bab9&style=flat-square"/>
+	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 <a href="https://github.com/Juskocode/piscine" target="_blank"><img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif"></a> > curl parrot.live 
 
@@ -15,6 +22,36 @@
 * [`Find peers`](https://find-peers.codam.nl)
 * [`Learn programming in 4min`](https://www.youtube.com/watch?v=5p8wTOr8AbU) 
 
+## :pushpin: Tips for CPiscine
+<details> 
+# READ THIS BEFORE YOU PASS THE EXAM <br/>
+### **Logging into and setting up an exam** <br/>
+1-Login with exam / exam at the login screen <br/>
+2-Open a terminal and type kinit username and your password after the prompt <br />
+3-Type examshell in a terminal to begin <br /> 
+### **During the exam** <br />
+1-Don't forget to clean up, comment, remove your testing code execs, and libraries prior to submission <br />
+2-Don't forget to push your code regularly in the rendu/<test question> directory to vogsphere before typing grademe and y in the examshell terminal <br />
+3-Read through all of the subjects and examples again before final submission <br />
+### **Before Exams** <br />
+1- You should Learn Functions Loops Condition Arrays  Strings before exam 00 <br />
+2- You should Learn argc & argv & malloc and free before exam01/exam02 <br />
+3- You Should Learn Makefile Library Header Pointers-Functions before final exam <br />
+### **Piscine sum up** <br/>
+- Projects have no deadline for delivery. <br/>
+- Projects can be submitted as many times as necessary.
+- Once you set a project as finshed, you have one day to be evaluated, oherwise the system will auto eval
+- Before the first exam, study Git, `add`, `commit`, `push` are essential.
+- Every Friday there is an exam, so set aside time to study.
+- As soon as registration for the exam begins **SIGN UP!**
+- Every weekend there is Rush, make an effort to deliver Rush00, the others are more difficult.
+- If you're not going to do Rush, don't sign up.
+- Do not copy.
+- Learn VIM, don't be boring!, it's not that bad `:q`
+- Learn gdb and valgrind, they will save your life in the third week. `man gdb`, `man valgrind`
+- Live and enjoy the Piscine experience, there are things that are better to learn there, so avoid spoilers.
+
+</details>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
