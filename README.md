@@ -9,6 +9,7 @@
 	<a href='https://profile.intra.42.fr/users/aaires-d' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 <a href="https://github.com/Juskocode/piscine" target="_blank"><img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif"></a> > curl parrot.live
+<p>:star2:Star this repo to reach the others! :star2:</p>
 
 ## 🙂: Facts
 The **42 Piscine** is an intensive one-month program that exposes participants to the school's teaching methods, including peer-to-peer learning, group work, peer evaluation, and project-based learning. Participants dive headfirst into the work methods of 42 students for 26 days, engaging in intensive learning and dedicating a month to mastering programming skills.
