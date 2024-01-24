@@ -60,7 +60,7 @@ This repository contains code developed at **42 Piscine**, from **08/01/2024** t
 </details>
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## 🏊: About The Project
 
 Name	|	Subjects       |  Exercises completed
 :----------------------------|:------------------------|:-----------------------
