@@ -57,8 +57,8 @@ __________________________________________________________________
 </div>
 <div align="center">
     	<div>
-	<a href="https://www.youtube.com/watch?v=bpmeHdOvoX0" target="_blank"><img align="center" alt="Eau" height="130" src="https://zupimages.net/up/22/37/uf9w.png"></a>
-	<a href="https://youtu.be/GJ0mO8P37Eg" target="_blank"><img align="center" alt="Instagram" height="150" src="https://zupimages.net/up/22/37/qinh.png"></a>
-	<a href = "https://youtu.be/_yrkWU6TDwQ"> <img align="center" alt="Gmail - benniebickles@proton.me" height="150" src="https://zupimages.net/up/22/37/onlz.png"></a>
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img align="center" alt="Eau" height="130" src="https://imgs.search.brave.com/VQW-0uqXppOhqodL7xG8rGaEynKGuv-RkHEN8PI-s0c/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkLzQyX0xvZ28u/c3Zn.svg"></a>
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img align="center" alt="Instagram" height="150" src="https://imgs.search.brave.com/VQW-0uqXppOhqodL7xG8rGaEynKGuv-RkHEN8PI-s0c/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkLzQyX0xvZ28u/c3Zn.svg"></a>
+	<a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img align="center" alt="Gmail - adavidaf2002@gmail.com" height="150" src="https://imgs.search.brave.com/VQW-0uqXppOhqodL7xG8rGaEynKGuv-RkHEN8PI-s0c/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkLzQyX0xvZ28u/c3Zn.svg"></a>
 	</div>
 </div>
