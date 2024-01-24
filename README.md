@@ -4,12 +4,14 @@
 
 ## :pushpin: Useful links
 
-* [`French manual`](http://manpagesfr.free.fr/consulter.html)	
+* [`C manual`]([http://manpagesfr.free.fr/consulter.html](https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/%5BKernighan-Ritchie%5DThe_C_Programming_Language.pdf))
+* [`C DSA manual (for hardcore C programmers only)`](https://www.cet.edu.in/noticefiles/280_DS%20Complete.pdf)
 * [`Stud42`](https://signin.intra.42.fr/users/sign_in)
 * [`Piscine 42 Vmontagn`](https://42-beta.vmontagn.fr/login)
 * [`42 Header`](https://github.com/42Paris/42header)
-* [`42 Norminette`](https://github.com/alexandregv/norminette-vim)
-* [`Piscine Semi auto-correct`](https://github.com/Buom01/semi-auto-correct-42)
+* [`42 Norminette formatter`]([https://github.com/alexandregv/norminette-vim](https://github.com/dawnbeen/c_formatter_42))
+* [`Piscine mini-moulinette`](https://github.com/Buom01/semi-auto-correct-42)
+* [`Find peers`](https://find-peers.codam.nl)
 * [`Learn programming in 4min`](https://www.youtube.com/watch?v=5p8wTOr8AbU) 
 
 <!-- ABOUT THE PROJECT -->
