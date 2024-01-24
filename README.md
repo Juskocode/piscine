@@ -13,7 +13,7 @@
 ## 🙂: Facts
 The **42 Piscine** is an intensive one-month program that exposes participants to the school's teaching methods, including peer-to-peer learning, group work, peer evaluation, and project-based learning. Participants dive headfirst into the work methods of 42 students for 26 days, engaging in intensive learning and dedicating a month to mastering programming skills.
 
-This repository contains code developed at **42 Piscine**, from **08/01/2024** to **02/02/2024** #psicine:9 Porto42.
+This repository contains code developed at **42 Piscine**, from **08/01/2024** to **02/02/2024** #🏊 9 Porto42.
 
 ## :pushpin: Useful links
 
@@ -28,7 +28,7 @@ This repository contains code developed at **42 Piscine**, from **08/01/2024** t
 * [`Learn programming in 4min`](https://www.youtube.com/watch?v=5p8wTOr8AbU) 
 
 ## 🩹: Tips for CPiscine
-<Tips> 
+<details> 
 	
 # READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
@@ -57,7 +57,7 @@ This repository contains code developed at **42 Piscine**, from **08/01/2024** t
 - Learn gdb and valgrind, they will save your life in the third week. `man gdb`, `man valgrind`
 - Live and enjoy the Piscine experience, there are things that are better to learn there, so avoid spoilers.
 
-</Tips>
+</details>
 <!-- ABOUT THE PROJECT -->
 
 ## 🏊: About The Project
