@@ -94,8 +94,8 @@ C 08	|	[`EN Subject`](Piscine_C/C08/C-08_EN.pdf)  | [`C08 Completed`](Piscine_C/
 C 09	|	[`EN Subject`](Piscine_C/C09/C-09_EN.pdf)  | [`C09 Completed`](Piscine_C/C09)
 C 10	|	[`EN Subject`](Piscine_C/C10/C-10_EN.pdf)  | [`C10 Completed`](Piscine_C/C10)
 C 11	|	[`EN Subject`](Piscine_C/C11/C-11_EN.pdf)  | [`C11 Completed`](Piscine_C/C11)
-C 12	|	[`EN Subject`](Piscine_C/C12/C-12_EN.pdf)  | [`C12 Completed`](Piscine_C/C12)
-C 13	|	[`EN Subject`](Piscine_C/C13/C-13_EN.pdf)  | [`C13 Completed`](Piscine_C/C13)
+C 12	|	[`EN Subject`](Piscine_C/C12/C-12_EN.pdf)  | [`C12 Completed`](Piscine_C/C12nogit)
+C 13	|	[`EN Subject`](Piscine_C/C13/C-13_EN.pdf)  | [`C13 Completed`](Piscine_C/C13nogit)
 
 Name	|	Subjects       |  Rush 
 :----------------------------|:------------------------|:-----------------------
