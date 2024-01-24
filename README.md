@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://zupimages.net/up/22/37/5q09.png" />
 </p>
-<a href="https://github.com/ItsAnunesS/42Piscine" target="_blank"><img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif"></a> > curl parrot.live 
+<a href="https://github.com/Juskocode/piscine" target="_blank"><img width="30" src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/src/img/parrots/laptop_parrot.gif"></a> > curl parrot.live 
 
 ## :pushpin: Useful links
 
