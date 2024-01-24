@@ -83,9 +83,10 @@ C 13	|	[`EN Subject`](Piscine_C/C13/C-13_EN.pdf)  | [`C13 Completed`](Piscine_C/
 
 Name	|	Subjects       |  Rush 
 :----------------------------|:------------------------|:-----------------------
-Rush 00	|	 [`FR Subject`](Rushs/Rush-00/Rush-00_Sujet.pdf) [`EN Subject`](Rushs/Rush-00/Rush-00_EN.pdf)       | [`Rush00 Completed`](Rushs/Rush-00)
-Rush 01	|	[`FR Subject`](Rushs/Rush-01/Rush-01_Sujet.pdf) [`EN Subject`](Rushs/Rush-01/Rush-01_EN.pdf)| [`Rush01 Completed`](Rushs/Rush-01)
-Rush 02	|	[`FR Subject`](Rushs/Rush-02/Rush-02_Sujet.pdf) [`EN Subject`](Rushs/Rush-02/Rush-02_EN.pdf)| [`Rush02 Completed`](Rushs/Rush-02) [`Dictionary`](Rushs/Rush-02/Dictionary.txt)
+Rush 00	🪛:|	[`EN Subject`](Rushes/Rush-00/en.subject.pdf)| [`Rush00 Completed`](Rushes/Rush-00)
+Rush 01	🔄:|	[`EN Subject`](Rushes/Rush-01/en.subject.pdf)| [`Rush01 Completed`](Rushes/Rush-01)
+Rush 02 🔡:|	[`EN Subject`](Rushes/Rush-02/en.subject.pdf)| [`Rush02 Implementing`🔧:]
+BSQ 🔳    :|	[`EN Subject`](Rushes/BSQ/en.subject.pdf)| [`BSQ Implementing`🔧]
 __________________________________________________________________
 <div align="center">
 	<div>
