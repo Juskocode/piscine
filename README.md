@@ -44,7 +44,7 @@ Rush 02	|	[`FR Subject`](Rushs/Rush-02/Rush-02_Sujet.pdf) [`EN Subject`](Rushs/R
 __________________________________________________________________
 <div align="center">
 	<div>
-	<img height="222em" src="https://zupimages.net/up/22/37/w8q5.png">
+	<img height="222em" src="https://avatars.githubusercontent.com/u/94986369?v=4">
 	</div>
 	<div>
 	<div>
