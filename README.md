@@ -27,8 +27,9 @@ This repository contains code developed at **42 Piscine**, from **08/01/2024** t
 * [`Find peers`](https://find-peers.codam.nl)
 * [`Learn programming in 4min`](https://www.youtube.com/watch?v=5p8wTOr8AbU) 
 
-## :pushpin: Tips for CPiscine
+## 🩹: Tips for CPiscine
 <details> 
+	
 # READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
 1-Login with exam / exam at the login screen <br/>
@@ -58,6 +59,7 @@ This repository contains code developed at **42 Piscine**, from **08/01/2024** t
 
 </details>
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 Name	|	Subjects       |  Exercises completed
