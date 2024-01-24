@@ -28,7 +28,7 @@ This repository contains code developed at **42 Piscine**, from **08/01/2024** t
 * [`Learn programming in 4min`](https://www.youtube.com/watch?v=5p8wTOr8AbU) 
 
 ## 🩹: Tips for CPiscine
-<details> 
+<Tips> 
 	
 # READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
@@ -57,7 +57,7 @@ This repository contains code developed at **42 Piscine**, from **08/01/2024** t
 - Learn gdb and valgrind, they will save your life in the third week. `man gdb`, `man valgrind`
 - Live and enjoy the Piscine experience, there are things that are better to learn there, so avoid spoilers.
 
-</details>
+</Tips>
 <!-- ABOUT THE PROJECT -->
 
 ## 🏊: About The Project
