@@ -92,10 +92,10 @@ C 06	|	[`EN Subject`](Piscine_C/C06/C-06_EN.pdf)  | [`C06 Completed`](Piscine_C/
 C 07	|	[`EN Subject`](Piscine_C/C07/C-07_EN.pdf)  | [`C07 Completed`](Piscine_C/C07)
 C 08	|	[`EN Subject`](Piscine_C/C08/C-08_EN.pdf)  | [`C08 Completed`](Piscine_C/C08)
 C 09	|	[`EN Subject`](Piscine_C/C09/C-09_EN.pdf)  | [`C09 Completed`](Piscine_C/C09)
-C 10	|	[`EN Subject`](Piscine_C/C10/C-10_EN.pdf)  | [`C10 Completed`](Piscine_C/C10)
+C 10	|	[`EN Subject`](Piscine_C/C10/C-10_EN.pdf)  | [`C10 Completed`](Piscine_C/C10unreviwed)
 C 11	|	[`EN Subject`](Piscine_C/C11/C-11_EN.pdf)  | [`C11 Completed`](Piscine_C/C11)
-C 12	|	[`EN Subject`](Piscine_C/C12/C-12_EN.pdf)  | [`C12 Completed`](Piscine_C/C12nogit)
-C 13	|	[`EN Subject`](Piscine_C/C13/C-13_EN.pdf)  | [`C13 Completed`](Piscine_C/C13nogit)
+C 12	|	[`EN Subject`](Piscine_C/C12/C-12_EN.pdf)  | [`C12 Completed`](Piscine_C/C12unreviwed)
+C 13	|	[`EN Subject`](Piscine_C/C13/C-13_EN.pdf)  | [`C13 Completed`](Piscine_C/C13unreviwed)
 
 Name	|	Subjects       |  Rush 
 :----------------------------|:------------------------|:-----------------------
