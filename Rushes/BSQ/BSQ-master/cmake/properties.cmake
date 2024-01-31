@@ -1,0 +1,5 @@
+project(bsq)
+set(${PROJECT_NAME}_SUMMARY "bsq - FASTASFBOY")
+set(${PROJECT_NAME}_MAJOR 0)
+set(${PROJECT_NAME}_MINOR 0)
+set(${PROJECT_NAME}_PATCH 1)
